@@ -1,16 +1,26 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
+I am a Research Engineer at the [School of Information Systems](https://sis.smu.edu.sg/), Singapore Management University in Singapore. I received my Bachelors in Computer Science and Masters in Computational Natural Sciences from [IIIT](https://www.iiit.ac.in/), Hyderabad, India. Currently, I'm working with [Prof. Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html) in combining propositional logic based constraints with multi-agent reinforcement learning. 
 
-<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+In the past, I spent a lovely summer at [OIST](https://www.oist.jp/), Japan, working on reinforcement learning and neuroscience in the lab of [Prof. Kenji Doya](https://groups.oist.jp/ncu/kenji-doya). In the past I also did a bit of computational physics, enough to make some trouble and write my Masters [thesis](https://scholar.google.com/citations?user=abw36r8AAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3Dabw36r8AAAAJ%26citation_for_view%3Dabw36r8AAAAJ%3Au-x6o8ySG0sC%26tzom%3D-480) and spend a wonderful [summer](http://www.weizmann.ac.il/particle/atlas/kupcinet-getz-summer-2017) in [Prof. Alexander Milov's](http://www.weizmann.ac.il/particle/atlas/) lab at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) in Israel.
 
-I am a Research Engineer at the School of Information Systems at the Singapore Management University
+Research Interests
+====
+I have three braod research interests.
++ I like working on problems in reinforcement learning and AI & ML in general. 
++ I'd like to leverage ideas from neuroscience and cognitive science to improve AI & ML algorithms and vice versa.
++ I'm also interested in the applications of AI and ML in natural sciences like physics and biology.
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
 
 A data-driven personal website
 ======
@@ -49,4 +59,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
