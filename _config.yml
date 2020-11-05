@@ -14,7 +14,7 @@ description              : &description "Research Engineer"
 url                      : https://kushagra06.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kushagra06/kushagra06.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "./images/500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kushagra Chandak"
-  avatar           : "images/jodhpur-pic.jpg"
+  avatar           : "./images/jodhpur-pic.jpg"
   bio              : "Research Engineer"
   location         : "Singapore"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github/kushagra06"
+  github           : "https://github/kushagra06"
   google_plus      :
   keybase          :
   instagram        :
@@ -189,61 +189,61 @@ collections:
     permalink: /:collection/:path/
 
 
-# Defaults
-# defaults:
-#   _posts
-#   - scope:
-#       path: ""
-#       type: posts
-#     values:
-#       layout: single
-#       author_profile: true
-#       read_time: true
-#       comments: true
-#       share: true
-#       related: true
-#   # _pages
-#   - scope:
-#       path: ""
-#       type: pages
-#     values:
-#       layout: single
-#       author_profile: true
-#   # _teaching
-#   - scope:
-#       path: ""
-#       type: teaching
-#     values:
-#       layout: single
-#       author_profile: true
-#       share: true
-#       comments: true
-#   # _publications
-#   - scope:
-#       path: ""
-#       type: publications
-#     values:
-#       layout: single
-#       author_profile: true
-#       share: true
-#       comments: true
-#   # _portfolio
-#   - scope:
-#       path: ""
-#       type: portfolio
-#     values:
-#       layout: single
-#       author_profile: true
-#       share: true
-#       comment: true
-#   # _talks
-#   - scope:
-#       path: ""
-#       type: talks
-#     values:
-#       layout: talk
-#       author_profile: true
-#       share: true
+Defaults
+defaults:
+  _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # # _teaching
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  # # _publications
+  # - scope:
+  #     path: ""
+  #     type: publications
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
