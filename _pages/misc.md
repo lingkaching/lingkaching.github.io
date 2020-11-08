@@ -8,6 +8,8 @@ author_profile: true
 ---
 
 ===
-+ Teaching
-+ Badminton
-+ Tabla
+- Teaching
+- Badminton
+- Tabla
+
+_Under Construction_
