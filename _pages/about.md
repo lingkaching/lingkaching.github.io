@@ -14,7 +14,7 @@ In the past, I spent a lovely summer at [OIST](https://www.oist.jp/), Japan, wor
 
 Research Interests
 ====
-I have three main research interests.
+I have three broad research interests.
 - I like working on problems in reinforcement learning and AI & ML in general. 
 - I'd like to leverage ideas from neuroscience and cognitive science to improve AI & ML algorithms and vice versa.
 - I'm also interested in the applications of AI and ML in natural sciences like physics and biology.
