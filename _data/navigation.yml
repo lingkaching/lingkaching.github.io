@@ -18,7 +18,17 @@ main:
   - title: "CV"
     url: /cv/
   
+  - title: "Publications and Projects"
+    url: /projects/
+  
+  - title: "Notes"
+    url: /notes/
+  
+  - title: "TAship"
+    url: /ta/
+  
   - title: "Miscellaneous"
     url: /misc/  
+  
   # - title: "Guide"
   #   url: /markdown/
