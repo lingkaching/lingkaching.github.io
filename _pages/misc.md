@@ -7,8 +7,9 @@ author_profile: true
 #   - /Miscelleneous
 ---
 
-Miscelleneous
 ===
-+ Teaching
-+ Badminton
-+ Tabla
+- Teaching
+- Badminton
+- Tabla
+
+_Under Construction_

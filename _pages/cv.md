@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-<!-- 
-Education
+_Under Construction_
+
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
