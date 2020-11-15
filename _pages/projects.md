@@ -21,5 +21,5 @@ Synopsis: [Presentation](http://kushagra06.github.io/files/multi-obj-bandits2.pd
 <!-- [Presentation-1](http://kushagra06.github.io/files/multi-obj-bandits1.pdf)  -->
 
 
-* **The Automated Travel Agent: Hotel Recommendations Using ML.** [Paper](http://cs229.stanford.edu/proj2016spr/report/017.pdf)<br/
+* **The Automated Travel Agent: Hotel Recommendations Using ML.** [Paper](http://cs229.stanford.edu/proj2016spr/report/017.pdf) <br/>
 Synopsis: [Presentation](http://kushagra06.github.io/files/SMAI.pdf)
