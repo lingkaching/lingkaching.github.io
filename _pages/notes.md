@@ -1,10 +1,9 @@
 ---
-layout: archive
+# layout: archive
 title: ""
 permalink: /notes/
 author_profile: true
 ---
-
 ## Papers' Notes and Presentations
 * Multi-Armed Bandits
 * ProLoNets
@@ -13,7 +12,7 @@ author_profile: true
 * Logistic Circuits
 * Resource Constraint Project Scheduling Problem (RCPSP)
 
-## Tutorials at IIIT Hyderabad.
+## Tutorials taken at IIIT Hyderabad.
 * Linear Algebra and Group Theory
   * [Tutorial 1]()
   * [Tutorial 2]()
