@@ -4,8 +4,10 @@
 permalink: /misc/
 author_profile: true
 ---
-- Teaching
-- Badminton
-- Tabla
 
-_Under Construction_
+* As a kid and teenager, I enjoyed playing badminton. I represented my state Rajasthan in the under-14 age group category at the national championship held in Pune, India. [Here's]() a picture.
+
+* I tried learning Tabla, an Indian classical musical instrument, for some time as an early teen. Albeit, I learned it for a couple of years but I could never become very good at it but I played it from time to time. [Here's]() a picture.
+
+* During university days, I was involved in Asha Kiran for a while. It's a school run by IIIT students for kids from nearby slums. (Asha Kiran translates to *A ray of hope*). I taught science and math to middle school kids and realized I enjoy teaching. I later became a TA for various university courses as well.
+

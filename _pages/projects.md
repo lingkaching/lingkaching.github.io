@@ -4,7 +4,7 @@ title: ""
 permalink: /projects/
 author_profile: true
 ---
-## Internships
+## Internship Projects
 
 * Okinawa Institute of Science and Technology (OIST), Japan. 
     * [Presentation](http://kushagra06.github.io/files/final-report-oist1.pdf)
