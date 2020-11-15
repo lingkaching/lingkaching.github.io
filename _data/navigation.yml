@@ -15,17 +15,17 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
   
-  - title: "Publications and Projects"
+  - title: "Preprints/Publications"
+    url: /pubs/
+  
+  - title: "Projects"
     url: /projects/
   
-  - title: "Notes"
+  - title: "Notes/Tutorials"
     url: /notes/
-  
-  - title: "TAship"
-    url: /ta/
   
   - title: "Miscellaneous"
     url: /misc/  

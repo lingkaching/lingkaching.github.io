@@ -9,14 +9,17 @@ redirect_from:
 ---
 I am a Research Engineer at the [School of Information Systems](https://sis.smu.edu.sg/), Singapore Management University in Singapore. I received my Bachelors in Computer Science and Masters in Computational Natural Sciences from [IIIT](https://www.iiit.ac.in/), Hyderabad, India. Currently, I'm working with [Prof. Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html) in combining multi-agent reinforcement learning with propositional logic based constraints. 
 
-In the past, I spent a lovely summer at [OIST](https://www.oist.jp/), Japan, working on reinforcement learning and neuroscience in the lab of [Prof. Kenji Doya](https://groups.oist.jp/ncu/kenji-doya). I also did a bit of computational physics, enough to make some trouble, write my Masters [thesis](https://scholar.google.com/citations?user=abw36r8AAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3Dabw36r8AAAAJ%26citation_for_view%3Dabw36r8AAAAJ%3Au-x6o8ySG0sC%26tzom%3D-480) and spend a wonderful [summer](http://www.weizmann.ac.il/particle/atlas/kupcinet-getz-summer-2017) in [Prof. Alexander Milov's](http://www.weizmann.ac.il/particle/atlas/) lab at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) in Israel.
+In the past, I spent a lovely summer at [OIST](https://www.oist.jp/), Japan, working on reinforcement learning and neuroscience in the lab of [Prof. Kenji Doya](https://groups.oist.jp/ncu/kenji-doya). I also did a bit of computational physics, enough to make some trouble, spend a wonderful [summer](http://www.weizmann.ac.il/particle/atlas/kupcinet-getz-summer-2017) in [Prof. Alexander Milov's](http://www.weizmann.ac.il/particle/atlas/) lab at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) in Israel and write my Masters [thesis](http://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/809).
 
 Research Interests
 =====
 I have three broad research interests.
-- I like working on problems in reinforcement learning and AI & ML in general. 
-- I'd like to leverage ideas from neuroscience and cognitive science to improve AI & ML algorithms and vice versa.
-- I'm also interested in the applications of AI and ML in natural sciences like physics and biology.
+
+* I like working on problems in reinforcement learning and AI & ML in general. 
+* I'd like to leverage ideas from neuroscience and cognitive science to improve AI & ML algorithms and vice versa.
+* I'm also interested in the applications of AI and ML in natural sciences like physics and biology.
+
+You can find my CV [here]().
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
@@ -30,11 +33,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
