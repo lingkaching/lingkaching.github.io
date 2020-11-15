@@ -10,9 +10,10 @@ author_profile: true
     * [Presentation](http://kushagra06.github.io/files/final-report-oist1.pdf)
 
 * Weizmann Institute of Science, Israel.
-    * [Abstract](http://kushagra06.github.io/files/kushagra_abstract_kg.pdf)
+    <!-- * [Abstract](http://kushagra06.github.io/files/kushagra_abstract_kg.pdf) -->
     * [Final Project Presentation](http://kushagra06.github.io/files/kg_kushagra.pdf)
     * [Path Integral Quantum Mechanics Presentation](http://kushagra06.github.io/files/path_integral.pdf)
+    * [Heavy Ion Physics for Dummies](http://kushagra06.github.io/files/hi_dummies.pdf)
 
 ## Projects
 * **Multi-Objective Bandits: Optimizing the Generalized Gini Index.** [Paper](http://proceedings.mlr.press/v70/busa-fekete17a/busa-fekete17a.pdf) <br/>
