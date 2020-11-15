@@ -4,10 +4,13 @@ title: ""
 permalink: /projects/
 author_profile: true
 ---
-## Internships
+## Internship Projects
 
-* Okinawa Institute of Science and Technology (OIST), Japan. [Presentation](http://kushagra06.github.io/files/final-report-oist1.pdf)
+* Okinawa Institute of Science and Technology (OIST), Japan. 
+    * [Presentation](http://kushagra06.github.io/files/final-report-oist1.pdf)
+
 * Weizmann Institute of Science, Israel.
+    * [Abstract](http://kushagra06.github.io/files/kushagra_abstract_kg.pdf)
     * [Final Project Presentation](http://kushagra06.github.io/files/kg_kushagra.pdf)
     * [Path Integral Quantum Mechanics Presentation](http://kushagra06.github.io/files/path_integral.pdf)
 
@@ -18,5 +21,5 @@ Synopsis: [Presentation](http://kushagra06.github.io/files/multi-obj-bandits2.pd
 <!-- [Presentation-1](http://kushagra06.github.io/files/multi-obj-bandits1.pdf)  -->
 
 
-* **The Automated Travel Agent: Hotel Recommendations Using ML.** [Paper](http://cs229.stanford.edu/proj2016spr/report/017.pdf) <br/>
+* **The Automated Travel Agent: Hotel Recommendations Using ML.** [Paper](http://cs229.stanford.edu/proj2016spr/report/017.pdf)<br/
 Synopsis: [Presentation](http://kushagra06.github.io/files/SMAI.pdf)
