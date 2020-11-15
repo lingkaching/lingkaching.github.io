@@ -1,10 +1,9 @@
 ---
 # layout: archive
-title: "Miscelleneous"
+# title: "Miscelleneous"
 permalink: /misc/
 author_profile: true
 ---
-===
 - Teaching
 - Badminton
 - Tabla
