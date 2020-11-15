@@ -12,7 +12,7 @@ author_profile: true
 * Logistic Circuits. [Link](http://kushagra06.github.io/files/logistic_ckts.pdf)
 * Resource Constraint Project Scheduling Problem (RCPSP). [Link](http://kushagra06.github.io/files/RCPSP_June6.pdf)
 
-## Tutorials taken at IIIT Hyderabad.
+## Tutorials conducted at IIIT Hyderabad
 * Linear Algebra and Group Theory
   * [Tutorial 1](http://kushagra06.github.io/files/la_tut1.pdf)
   * [Tutorial 2](http://kushagra06.github.io/files/la_tut2.pdf)
