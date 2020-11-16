@@ -4,6 +4,8 @@ title: ""
 permalink: /projects/
 author_profile: true
 ---
+## Current
+
 ## Internship Projects
 
 * Okinawa Institute of Science and Technology (OIST), Japan. 
