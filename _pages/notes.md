@@ -7,8 +7,8 @@ author_profile: true
 ## Papers' Notes and Presentations
 * Multi-Armed Bandits. [Link](http://kushagra06.github.io/files/bandits-scribe.pdf)
 * ProLoNets. [Link](http://kushagra06.github.io/files/ProLoNets.pdf)
-* Tractability in Structured Probability Spaces. [Link](http://kushagra06.github.io/files/trac_struc_spaces.pdf)
-* Probabilistic Sentential Decision Diagrams (PSDD). [Link](http://kushagra06.github.io/files/PSDD_presentation.pdf)
+* Tractability in Structured Probability Spaces. [Link](http://kushagra06.github.io/files/tract_struc_spaces.pdf)
+* Probabilistic Sentential Decision Diagrams (PSDD). [Link](http://kushagra06.github.io/files/PSDD_Presentation.pdf)
 * Logistic Circuits. [Link](http://kushagra06.github.io/files/logistic_ckts.pdf)
 * Resource Constraint Project Scheduling Problem (RCPSP). [Link](http://kushagra06.github.io/files/RCPSP_June6.pdf)
 
