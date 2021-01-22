@@ -13,4 +13,4 @@ author_profile: true
 
 * Some of my most memorable and rewarding experiences have been during my internships at Weizmann Institute of Science in Rehovot, Israel and Okinawa Institute of Science and Technology in Okinawa, Japan. Apart from learning to do research and doing research, I got to meet some very talented people from all over the world and make new friends. [Here's](http://kushagra06.github.io/images/oist.jpeg) a picture from OIST and [here's](http://kushagra06.github.io/images/wis.jpg) one from WIS.
 
-* I have a street named after my last name. =)
+<!-- * I have a street named after my last name. =) -->
