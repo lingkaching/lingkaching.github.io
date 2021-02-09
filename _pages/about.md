@@ -13,11 +13,12 @@ In the past, I spent a lovely summer at [OIST](https://www.oist.jp/), Japan, wor
 
 Research Interests
 =====
-I have three broad research interests.
+Sequential decision making, reinforcement learning, Probabilistic Graphical Models, Computational Cognitive Science, Machine Learning.
+<!-- I have three broad research interests.
 
 * I like working on problems in reinforcement learning and AI & ML in general. 
 * I would like to leverage ideas from neuroscience and cognitive science to improve AI & ML algorithms and vice versa.
-* I am also interested in the applications of AI and ML in natural sciences like physics and biology.
+* I am also interested in the applications of AI and ML in natural sciences like physics and biology. -->
 
 You can find my CV [here](http://kushagra06.github.io/files/kushagra_resume.pdf). <br/>
 Email: kushagrachandak06-AT-gmail-DOT-com

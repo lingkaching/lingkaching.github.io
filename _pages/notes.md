@@ -5,12 +5,13 @@ permalink: /notes/
 author_profile: true
 ---
 ## Papers' Notes and Presentations
-* Multi-Armed Bandits. [Link](http://kushagra06.github.io/files/bandits-scribe.pdf)
+* Stochastic Planning using Decision Diagrams (SPUDD). [Link](http://kushagra06.github.io/files/spudd.pdf)
 * ProLoNets. [Link](http://kushagra06.github.io/files/ProLoNets.pdf)
 * Tractability in Structured Probability Spaces. [Link](http://kushagra06.github.io/files/tract_struc_spaces.pdf)
 * Probabilistic Sentential Decision Diagrams (PSDD). [Link](http://kushagra06.github.io/files/PSDD_Presentation.pdf)
 * Logistic Circuits. [Link](http://kushagra06.github.io/files/logistic_ckts.pdf)
 * Resource Constraint Project Scheduling Problem (RCPSP). [Link](http://kushagra06.github.io/files/RCPSP_June6.pdf)
+* Multi-Armed Bandits. [Link](http://kushagra06.github.io/files/bandits-scribe.pdf)
 
 ## Tutorials conducted at IIIT Hyderabad
 * Linear Algebra and Group Theory
