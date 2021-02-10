@@ -13,7 +13,8 @@ In the past, I spent a lovely summer at [OIST](https://www.oist.jp/), Japan, wor
 
 Research Interests
 =====
-Sequential decision making, reinforcement learning, Probabilistic Graphical Models, Computational Cognitive Science, Machine Learning.
+Sequential decision making, reinforcement learning, Probabilistic Graphical Models, Computational Cognitive Science, Machine Learning. <br/>
+
 You can find my CV [here](http://kushagra06.github.io/files/kushagra_resume.pdf). <br/>
 Email: kushagrachandak06-AT-gmail-DOT-com
 
