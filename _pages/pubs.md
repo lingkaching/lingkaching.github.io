@@ -7,7 +7,8 @@ author_profile: true
 #  - /publications
 ---
 ## Preprints
-* **Integrating Knowledge Compilation with Reinforcement Learning for Routes.** </br>
+
+* **Integrating Knowledge Compilation with Reinforcement Learning for Routes.** <br/>
 Jiajing Ling\*, **Kushagra Chandak\***, Akshat Kumar (\* denotes equal contribution)
 
 ## Publications
