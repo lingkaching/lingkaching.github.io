@@ -13,10 +13,13 @@ In the past, I spent a lovely summer at [OIST](https://www.oist.jp/), Japan, wor
 
 Research Interests
 =====
-Sequential decision making, reinforcement learning, probabilistic graphical models, computational cognitive science, machine Learning. <br/>
+Sequential decision making, reinforcement learning, probabilistic graphical models, computational cognitive science, machine learning. <br/>
 
 You can find my CV [here](http://kushagra06.github.io/files/kushagra_resume.pdf). <br/>
 Email: kushagrachandak06-AT-gmail-DOT-com
+
+## News
+* Our paper titled **Knowledge Compilation with Reinforcement Learning for Routes** has been accepted in *International Conference on Automated Planning and Scheduling (ICAPS), 2021*, to be held in Sun Yat-Sen University, Guangzhou, China! 
 
 <!-- I have three broad research interests.
 

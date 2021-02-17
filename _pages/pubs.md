@@ -8,10 +8,11 @@ author_profile: true
 ---
 ## Preprints
 
-* **Integrating Knowledge Compilation with Reinforcement Learning for Routes.** <br/>
-Jiajing Ling\*, **Kushagra Chandak\***, Akshat Kumar (\* denotes equal contribution)
 
 ## Publications
+
+* **Integrating Knowledge Compilation with Reinforcement Learning for Routes.** <br/>
+Jiajing Ling\*, **Kushagra Chandak\***, Akshat Kumar (\* denotes equal contribution). *International Conference on Automated Planning and Scheduling (ICAPS), 2021*.
 
 * **Combining Propositional Logic Based Decision Diagrams with Decision Making in Urban Systems.** <br/>
 Jiajing Ling\*, **Kushagra Chandak\***, Akshat Kumar (\* denotes equal contribution). *AI for Urban Mobility Workshop, AAAI Conference on Artificial Intelligence, 2021*. [Link](http://aium2021.felk.cvut.cz/) [Arxiv](https://arxiv.org/abs/2011.04405)
