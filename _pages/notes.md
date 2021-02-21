@@ -5,6 +5,7 @@ permalink: /notes/
 author_profile: true
 ---
 ## Papers' Notes and Presentations
+* Policy Shaping. [Link](http://kushagra06.github.io/files/pol_shaping.pdf)
 * Stochastic Planning using Decision Diagrams (SPUDD). [Link](http://kushagra06.github.io/files/spudd.pdf)
 * ProLoNets. [Link](http://kushagra06.github.io/files/ProLoNets.pdf)
 * Tractability in Structured Probability Spaces. [Link](http://kushagra06.github.io/files/tract_struc_spaces.pdf)
