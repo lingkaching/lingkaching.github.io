@@ -21,14 +21,14 @@ main:
   - title: "Preprints/Publications"
     url: /pubs/
   
-  - title: "Projects"
-    url: /projects/
+  #- title: "Projects"
+  #  url: /projects/
   
-  - title: "Notes/Tutorials"
-    url: /notes/
+  #- title: "Notes/Tutorials"
+  #  url: /notes/
   
-  - title: "Miscellaneous"
-    url: /misc/  
+  #- title: "Miscellaneous"
+  #  url: /misc/  
   
   # - title: "Guide"
   #   url: /markdown/
