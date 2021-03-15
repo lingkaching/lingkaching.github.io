@@ -18,7 +18,7 @@ author_profile: true
 **Jiajing Ling\***, Kushagra Chandak\*, Akshat Kumar (\* denotes equal contribution). *AI for Urban Mobility Workshop, AAAI Conference on Artificial Intelligence, 2021*. [Link](http://aium2021.felk.cvut.cz/) [Arxiv](https://arxiv.org/abs/2011.04405)
 
 * **Reinforcement Learning for Zone Based Multiagent Pathfinding under Uncertainty.** <br/>
-* **Jiajing Ling**, Tarun Gupta, Akshat Kumar. *International Conference on Automated Planning and Scheduling (ICAPS), 2020*. [pdf](https://icaps20.icaps-conference.org/paper253.html)
+**Jiajing Ling**, Tarun Gupta, Akshat Kumar. *International Conference on Automated Planning and Scheduling (ICAPS), 2020*. [pdf](https://icaps20.icaps-conference.org/paper253.html)
 
 
 
