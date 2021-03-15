@@ -7,25 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research engineer at the [School of Information Systems](https://sis.smu.edu.sg/), Singapore Management University in Singapore. I received my Bachelors in Computer Science and Masters in Computational Natural Sciences from [IIIT, Hyderabad](https://www.iiit.ac.in/), India. Currently, I am working with [Prof. Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html) in combining multi-agent reinforcement learning with propositional logic based domain/human constraints. 
-
-In the past, I spent a lovely summer at [OIST](https://www.oist.jp/), Japan, working on reinforcement learning and neuroscience in [Prof. Kenji Doya's](https://groups.oist.jp/ncu/kenji-doya) lab. I also did a bit of computational physics, enough to make some trouble, spend a wonderful [summer](http://www.weizmann.ac.il/particle/atlas/kupcinet-getz-summer-2017) in [Prof. Alexander Milov's](http://www.weizmann.ac.il/particle/atlas/) lab at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) in Israel and write my Masters [thesis](http://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/809).
+I am a Ph.D. student at the [School of Computing and Information Systems](https://scis.smu.edu.sg/), Singapore Management University in Singapore. 
 
 Research Interests
 =====
-Sequential decision making, reinforcement learning, probabilistic graphical models, computational cognitive science, machine learning. <br/>
+Multi-agent systems, reinforcement learning. <br/>
 
-You can find my CV [here](http://kushagra06.github.io/files/kushagra_resume.pdf). <br/>
-Email: kushagrachandak06-AT-gmail-DOT-com
+Email: jjling.2018-AT-smu-DOT-edu-DOT-sg
 
 ## News
 * Our paper titled **Knowledge Compilation with Reinforcement Learning for Routes** has been accepted for publication at the 31st *International Conference on Automated Planning and Scheduling (ICAPS), 2021*, to be held in Sun Yat-Sen University, Guangzhou, China! 
 
 <!-- I have three broad research interests.
 
-* I like working on problems in reinforcement learning and AI & ML in general. 
-* I would like to leverage ideas from neuroscience and cognitive science to improve AI & ML algorithms and vice versa.
-* I am also interested in the applications of AI and ML in natural sciences like physics and biology. 
   
    This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
