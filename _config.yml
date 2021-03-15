@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kushagra Chandak"
+title                    : "LING Jiajing"
 title_separator          : "-"
-name                     : &name "Kushagra Chandak"
-description              : &description "Research Engineer"
-url                      : https://kushagra06.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "LING Jiajing"
+description              : &description "cool"
+url                      : https://lingkaching.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kushagra06.github.io"
+repository               : "lingkaching.github.io"
 teaser                   : "profile.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kushagra Chandak"
-  avatar           : "jodhpur-pic-1.jpg"
-  bio              : "Research Engineer at School of Information Systems, SMU, Singapore"
+  name             : "LING Jiajing"
+  avatar           : "cool_kc.jpg"
+  bio              : "Ph.D. student at School of Computing and Information Systems, SMU, Singapore"
   location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=abw36r8AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=klty0U4AAAAJ&hl=en"
   email            : #fullname-AT-gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kushagra06"
+  github           : "lingkaching"
   google_plus      :
   keybase          :
   instagram        :
