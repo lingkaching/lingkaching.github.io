@@ -16,6 +16,8 @@ Multi-agent systems, reinforcement learning. <br/>
 Email: jjling.2018-AT-smu-DOT-edu-DOT-sg
 
 ## News
+* Our paper titled **Constrained Multiagent Reinforcement Learning
+for Large Agent Population** has been accepted for publication at the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD), 2022*, to be held in Grenoble, France! 
 * I am awarded the SMU Presidential Doctoral Fellowship (2021-20222) for outstanding research, thanks to SMU!
 * Our paper titled **Knowledge Compilation with Reinforcement Learning for Routes** has been accepted for publication at the 31st *International Conference on Automated Planning and Scheduling (ICAPS), 2021*, to be held in Sun Yat-Sen University, Guangzhou, China! 
 
