@@ -8,8 +8,9 @@ author_profile: true
 ---
 ## Preprints
 
-
 ## Publications
+* **Constrained Multiagent Reinforcement Learning for Large Agent Population.** <br/>
+**Jiajing Ling**, Arambam James Singh, Nguyen Duc Thien, Akshat Kumar. *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD), 2022*. [PDF](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1379.pdf)
 
 * **Integrating Knowledge Compilation with Reinforcement Learning for Routes.** <br/>
 **Jiajing Ling\***, Kushagra Chandak\*, Akshat Kumar (\* denotes equal contribution). *International Conference on Automated Planning and Scheduling (ICAPS), 2021*. [Supplementary](https://github.com/lingkaching/lingkaching.github.io/blob/master/files/icaps21KCO_supplementary.pdf)
