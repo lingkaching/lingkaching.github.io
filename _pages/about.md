@@ -16,6 +16,7 @@ Multi-agent systems, reinforcement learning. <br/>
 Email: jjling.2018-AT-smu-DOT-edu-DOT-sg
 
 ## News
+* Our paper titled **Knowledge Compilation for Constrained Combinatorial Action Spaces in Reinforcement Learning** has been accepted for publication at the *The 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)*, to be held in London, the UK! 
 * Our paper titled **Constrained Multiagent Reinforcement Learning
 for Large Agent Population** has been accepted for publication at the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD), 2022*, to be held in Grenoble, France! 
 * I am awarded the SMU Presidential Doctoral Fellowship (2021-20222) for outstanding research, thanks to SMU!
