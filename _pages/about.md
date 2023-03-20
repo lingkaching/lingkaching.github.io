@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at the [School of Computing and Information Systems](https://scis.smu.edu.sg/), Singapore Management University in Singapore. 
+I am a Ph.D. student at the [School of Computing and Information Systems](https://scis.smu.edu.sg/), Singapore Management University in Singapore. I am supervised by Prof. Akshat Kumar (http://www.mysmu.edu/faculty/akshatkumar/).
 
 Research Interests
 =====
 Multi-agent systems, reinforcement learning. <br/>
 
-Email: jjling.2018-AT-smu-DOT-edu-DOT-sg
+Email: jjling.2018@smu.edu.sg
 
 ## News
 * Our paper titled **Knowledge Compilation for Constrained Combinatorial Action Spaces in Reinforcement Learning** has been accepted for publication at the *The 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)*, to be held in London, the UK! 
