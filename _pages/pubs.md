@@ -12,6 +12,9 @@ author_profile: true
 * **Knowledge Compilation for Constrained Combinatorial Action Spaces in Reinforcement Learning.** <br/>
 **Jiajing Ling\***, Moritz Lukas Schuler\*, Akshat Kumar, Pradeep Varakantham (\* denotes equal contribution). *International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023*. [PDF](https://github.com/lingkaching/lingkaching.github.io/blob/master/files/aamas23.pdf) [Poster](https://github.com/lingkaching/lingkaching.github.io/blob/master/files/aamas_poster.pdf)
 
+* **Tutorial: Efficient Neural-Symbolic Reasoning via Reinforcement Learning.** <br/>
+Daoming Lyu, Bo Liu, Jianshu Chen, Akshat Kumar, **Jiajing Ling**. *International Conference on Automated Planning and Scheduling (ICAPS), 2022*.
+
 * **Constrained Multiagent Reinforcement Learning for Large Agent Population.** <br/>
 **Jiajing Ling**, Arambam James Singh, Nguyen Duc Thien, Akshat Kumar. *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD), 2022*. [PDF](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1379.pdf)
 
