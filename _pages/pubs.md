@@ -10,22 +10,22 @@ author_profile: true
 
 ## Publications
 * **Knowledge Compilation for Constrained Combinatorial Action Spaces in Reinforcement Learning.** <br/>
-**Jiajing Ling\***, Moritz Lukas Schuler\*, Akshat Kumar, Pradeep Varakantham (\* denotes equal contribution). *International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023*. [PDF](https://github.com/lingkaching/lingkaching.github.io/blob/master/files/aamas23.pdf) [Poster](https://github.com/lingkaching/lingkaching.github.io/blob/master/files/aamas_poster.pdf)
+**Jiajing Ling\***, Moritz Lukas Schuler\*, Akshat Kumar, Pradeep Varakantham (\* denotes equal contribution). *International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023*. [PDF](https://github.com/lingkaching/lingkaching.github.io/blob/master/files/aamas23.pdf) [Poster](https://github.com/lingkaching/lingkaching.github.io/blob/master/files/aamas_poster.pdf) [Code](https://github.com/lingkaching/kcac)
 
 * **Tutorial: Efficient Neural-Symbolic Reasoning via Reinforcement Learning.** <br/>
 Daoming Lyu, Bo Liu, Jianshu Chen, Akshat Kumar, **Jiajing Ling**. *International Conference on Automated Planning and Scheduling (ICAPS), 2022*.
 
 * **Constrained Multiagent Reinforcement Learning for Large Agent Population.** <br/>
-**Jiajing Ling**, Arambam James Singh, Nguyen Duc Thien, Akshat Kumar. *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD), 2022*. [PDF](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1379.pdf)
+**Jiajing Ling**, Arambam James Singh, Nguyen Duc Thien, Akshat Kumar. *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD), 2022*. [PDF](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1379.pdf) [Code](https://github.com/lingkaching/LargeScaleRL/tree/main/Maritime_RL)
 
 * **Integrating Knowledge Compilation with Reinforcement Learning for Routes.** <br/>
-**Jiajing Ling\***, Kushagra Chandak\*, Akshat Kumar (\* denotes equal contribution). *International Conference on Automated Planning and Scheduling (ICAPS), 2021*.  [PDF](https://ojs.aaai.org/index.php/ICAPS/article/download/16002/15813/19495) [Supplementary](https://github.com/lingkaching/lingkaching.github.io/blob/master/files/icaps21KCO_supplementary.pdf)
+**Jiajing Ling\***, Kushagra Chandak\*, Akshat Kumar (\* denotes equal contribution). *International Conference on Automated Planning and Scheduling (ICAPS), 2021*.  [PDF](https://ojs.aaai.org/index.php/ICAPS/article/download/16002/15813/19495) [Supplementary](https://github.com/lingkaching/lingkaching.github.io/blob/master/files/icaps21KCO_supplementary.pdf) [Code](https://github.com/lingkaching/LargeScaleRL/tree/main/DecisionDiagrams_RL)
 
 * **Combining Propositional Logic Based Decision Diagrams with Decision Making in Urban Systems.** <br/>
 **Jiajing Ling\***, Kushagra Chandak\*, Akshat Kumar (\* denotes equal contribution). *AI for Urban Mobility Workshop, AAAI Conference on Artificial Intelligence, 2021*. [Arxiv](https://arxiv.org/abs/2011.04405)
 
 * **Reinforcement Learning for Zone Based Multiagent Pathfinding under Uncertainty.** <br/>
-**Jiajing Ling**, Tarun Gupta, Akshat Kumar. *International Conference on Automated Planning and Scheduling (ICAPS), 2020*. [PDF](https://icaps20.icaps-conference.org/paper253.html)
+**Jiajing Ling**, Tarun Gupta, Akshat Kumar. *International Conference on Automated Planning and Scheduling (ICAPS), 2020*. [PDF](https://icaps20.icaps-conference.org/paper253.html) [Code](https://github.com/lingkaching/LargeScaleRL/tree/main/PolicyGradients_MARL)
 
 
 
