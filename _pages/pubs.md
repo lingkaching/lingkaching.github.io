@@ -9,6 +9,10 @@ author_profile: true
 ## Preprints
 
 ## Publications
+* **FlowPG: Action-constrained Policy Gradient with Normalizing Flows.** <br/>
+Janaka Chathuranga Brahmanage, **Ling Jiajing**, Akshat Kumar. *Conference on Neural Information Processing Systems (NeurIPS), 2024*.
+
+
 * **Knowledge Compilation for Constrained Combinatorial Action Spaces in Reinforcement Learning.** <br/>
 **Jiajing Ling\***, Moritz Lukas Schuler\*, Akshat Kumar, Pradeep Varakantham (\* denotes equal contribution). *International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023*. [PDF](https://github.com/lingkaching/lingkaching.github.io/blob/master/files/aamas23.pdf) [Poster](https://github.com/lingkaching/lingkaching.github.io/blob/master/files/aamas_poster.pdf) [Code](https://github.com/lingkaching/kcac)
 
