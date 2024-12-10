@@ -16,6 +16,7 @@ Multi-agent systems, reinforcement learning. <br/>
 Email: jjling.2018@smu.edu.sg
 
 ## News
+* Our paper titled **Leveraging Constraint Violation Signals For Action Constrained Reinforcement Learning** has been accepted for publication at the *The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)*, to be held in Philadelphia, the USA.
 * Our paper titled **FlowPG: Action-constrained Policy Gradient with Normalizing Flows** has been accepted for publication at the *The 37th Conference on Neural Information Processing Systems (NeurIPS 2023)*, to be held in New Orleans, the USA.
 * I obtained my Doctor of Philosophy degree in Computer Science from Singapore Management University! Cheers!
 * Our paper titled **Knowledge Compilation for Constrained Combinatorial Action Spaces in Reinforcement Learning** has been accepted for publication at the *The 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)*, to be held in London, the UK! 
