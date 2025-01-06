@@ -16,12 +16,12 @@ Multi-agent systems, reinforcement learning. <br/>
 Email: jjling.2018@smu.edu.sg
 
 ## News
-* Our paper titled **Leveraging Constraint Violation Signals For Action Constrained Reinforcement Learning** has been accepted for publication at the *The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)*, to be held in Philadelphia, the USA.
-* Our paper titled **FlowPG: Action-constrained Policy Gradient with Normalizing Flows** has been accepted for publication at the *The 37th Conference on Neural Information Processing Systems (NeurIPS 2023)*, to be held in New Orleans, the USA.
+* Our paper titled **Leveraging Constraint Violation Signals For Action Constrained Reinforcement Learning** has been accepted for publication at *The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)*, to be held in Philadelphia, the USA.
+* Our paper titled **FlowPG: Action-constrained Policy Gradient with Normalizing Flows** has been accepted for publication at *The 37th Conference on Neural Information Processing Systems (NeurIPS 2023)*, to be held in New Orleans, the USA.
 * I obtained my Doctor of Philosophy degree in Computer Science from Singapore Management University! Cheers!
-* Our paper titled **Knowledge Compilation for Constrained Combinatorial Action Spaces in Reinforcement Learning** has been accepted for publication at the *The 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)*, to be held in London, the UK! 
+* Our paper titled **Knowledge Compilation for Constrained Combinatorial Action Spaces in Reinforcement Learning** has been accepted for publication at *The 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)*, to be held in London, the UK! 
 * Our paper titled **Constrained Multiagent Reinforcement Learning
-for Large Agent Population** has been accepted for publication at the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD), 2022*, to be held in Grenoble, France! 
+for Large Agent Population** has been accepted for publication at *The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD), 2022*, to be held in Grenoble, France! 
 * I am awarded the SMU Presidential Doctoral Fellowship (2021-20222) for outstanding research, thanks to SMU!
 * Our paper titled **Knowledge Compilation with Reinforcement Learning for Routes** has been accepted for publication at the 31st *International Conference on Automated Planning and Scheduling (ICAPS), 2021*, to be held in Sun Yat-Sen University, Guangzhou, China! 
 
